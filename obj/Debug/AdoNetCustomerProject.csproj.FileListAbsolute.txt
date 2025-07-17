@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\CustomerProject\bin\Debug\CustomerProject.exe.config
+C:\Users\lenovo\source\repos\CustomerProject\bin\Debug\CustomerProject.exe
+C:\Users\lenovo\source\repos\CustomerProject\bin\Debug\CustomerProject.pdb
+C:\Users\lenovo\source\repos\CustomerProject\obj\Debug\AdoNetCustomerProject.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\CustomerProject\obj\Debug\CustomerProject.Properties.Resources.resources
+C:\Users\lenovo\source\repos\CustomerProject\obj\Debug\AdoNetCustomerProject.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\CustomerProject\obj\Debug\AdoNetCustomerProject.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CustomerProject\obj\Debug\CustomerProject.exe
+C:\Users\lenovo\source\repos\CustomerProject\obj\Debug\CustomerProject.pdb
+C:\Users\lenovo\source\repos\CustomerProject\obj\Debug\CustomerProject.exe.config
+C:\Users\lenovo\source\repos\CustomerProject\obj\Debug\CustomerProject.FrmCity.resources
+C:\Users\lenovo\source\repos\CustomerProject\obj\Debug\CustomerProject.FrmMap.resources
+C:\Users\lenovo\source\repos\CustomerProject\obj\Debug\CustomerProject.FrmCustomer.resources
