@@ -17,10 +17,10 @@ namespace CustomerProject
         {
             InitializeComponent();
         }
-        SqlConnection sqlConnection = new SqlConnection("Server=LAPTOP-T8T8LP8G;Initial Catalog=DbCustomer;Integrated Security=True");
+        SqlConnection sqlConnection = new SqlConnection("Server=.;Initial Catalog=DbCustomer;Integrated Security=True");
         private void btnList_Click(object sender, EventArgs e)
         {
-            SqlConnection sqlConnection = new SqlConnection("Server=LAPTOP-T8T8LP8G;Initial Catalog=DbCustomer;Integrated Security=True");
+            SqlConnection sqlConnection = new SqlConnection("Server=.;Initial Catalog=DbCustomer;Integrated Security=True");
             
             sqlConnection.Open();
             SqlCommand command = new SqlCommand("SELECT * FROM TblCity", sqlConnection);
